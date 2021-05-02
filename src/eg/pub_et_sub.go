@@ -1,6 +1,6 @@
 // Reference:
 //	https://chai2010.gitbooks.io/advanced-go-programming-book/content/ch1-basic/ch1-06-goroutine.html
-package pub_et_sub
+package example
 
 import (
 	"fmt"
