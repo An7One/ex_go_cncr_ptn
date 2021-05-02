@@ -2,6 +2,14 @@
 
 ## by An7One
 
+### Concurrency Pattern
+
+<ul>
+    <li>Producer and Consumer</li>
+    <li>Publisher and Subscriber</li>
+    <li>Fan In and Fan Out</li>
+</ul>
+
 ### Resource
 
 [The Go Blog](https://blog.golang.org/pipelines) ([Youtube Video](https://youtu.be/f6kdp27TYZs)) - Go Concurrency Patterns: Pipelines and Cancellation
