@@ -1,0 +1,1 @@
+Collected Concurrency Patterns in GoLang by an7one
