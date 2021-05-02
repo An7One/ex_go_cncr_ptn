@@ -27,3 +27,6 @@ Scheduling in Go, by William Kennedy
     <li><a href="https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html">Go Scheduler</a></li>
     <li><a href="https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html">Concurrency</a></li>
 </ol>
+
+
+[Official Doc](https://golang.org/doc/effective_go) Effective Go
